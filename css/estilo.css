@@ -1,0 +1,33 @@
+body {
+	background:#fe840e;f96714
+}
+.TituloPrincipal{
+	text-align: center;
+	color:#F54B02;
+	font-size: 250%;
+	padding: 30px;
+	border:2px solid DarkRed;
+	background-color:DodgerBlue;
+	margin: 55px;
+}
+.address{
+	background-color:#f96714;
+	color:white;
+	padding:20px;
+}
+.span{
+	border:1px solid black;
+	color: red;
+}
+.ul1{
+	list-style-type:circle;
+}
+.ul2{
+	list-style-type:square;
+}
+.ul3{
+	list-style-type:none;
+}
+.myCanvas {
+	border:1px solid rgb(255,255,255);
+	}
